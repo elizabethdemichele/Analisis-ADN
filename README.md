@@ -18,5 +18,5 @@ Específicamente, el código tiene las siguientes funcionalidades:
 5. **resumen de aminoácidos:** v resumen de apariciones de un aminoácido específico
 6. **resumen de colisiones:** resumen de colisiones en la tabla de hash usada en el código
 
---
+---
 Este código se encuentra en el siguiente [enlace](https://github.com/elizabethdemichele/Analisis-ADN/tree/main).
