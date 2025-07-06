@@ -11,9 +11,9 @@ o parada de una **proteína** (secuencia de aminoácidos). El código tiene la f
 de nucleiótidos se encuentra en la secuencia dada, las posiciones en que se encuentra y la frecuencia con que lo hace.
 
 Específicamente, el código tiene las siguientes funcionalidades:
-1. carga y lectura de archivos `.txt` que contengan una secuencia de aminoácidos
-2. búsqueda de las veces en que una tripleta de nucleótidos ocurre y sus posiciones
-3. búsqueda de las veces en que todas las tripletas conocidas ocurren en la secuencia
-4. resumen de cuáles son las secuencias más y menos frecuentes
-5. resumen de apariciones de un aminoácido específico
-6. resumen de colisiones en la tabla de hash usada en el código
+1. **I/O archivos:** carga y lectura de archivos `.txt` que contengan una secuencia de aminoácidos
+2. **búsqueda específica:** búsqueda de las veces en que una tripleta de nucleótidos ocurre y sus posiciones
+3. **búsqueda general:** búsqueda de las veces en que todas las tripletas conocidas ocurren en la secuencia
+4. **resumen de secuencias:** resumen de cuáles son las secuencias más y menos frecuentes
+5. **resumen de aminoácidos:** v resumen de apariciones de un aminoácido específico
+6. **resumen de colisiones:** resumen de colisiones en la tabla de hash usada en el código
